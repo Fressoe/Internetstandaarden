@@ -1,0 +1,103 @@
+html {
+    background-color: rgb(255, 242, 161);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    margin: 0;
+}
+
+.navigation_list {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.active {
+    border-bottom: 3px solid whitesmoke;
+}
+
+a:visited {
+    color: black;
+}
+
+li {
+    margin: 1em;
+}
+
+.topnavigation a:hover {
+    transform: scale(2);
+}
+
+.topnavigation {
+    background-color: rgb(185, 185, 185); /* voor browsers die gradient niet ondersteunen */
+    background-image: linear-gradient(to right, rgb(255, 255, 160), rgb(230, 193, 29));
+}
+
+.container {
+    display: grid;
+    align-items: center;
+    grid-template-columns: auto auto auto;
+    column-gap: 5px;
+    justify-items: center;
+    margin-top: 2%;
+}
+
+.container_welcome {
+    display: flex;
+}
+
+.container_legends {
+    display: flex;
+    margin-top: 1em;
+    box-shadow: 0 0 10px rgb(57, 57, 57);
+    justify-content: space-between;
+}
+
+.topic_image {
+    padding: 1em;
+    max-width: auto;
+    max-height: 2em;
+    object-fit: cover;
+    min-height: 15em;
+}
+
+.welcome_text {
+    max-width: 100%;
+    float: left;
+}
+
+.main_content {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.topics {
+    text-align: center;
+    padding: 1em;
+    min-height: 30em;
+    margin: 0.5em;
+    box-shadow: 0 0 10px rgb(57, 57, 57);
+}
+
+.article_head {
+    padding-left: 1em;
+}
+
+.article_text {
+    max-width: 80%;
+    margin-left: 1em;
+}
+
+.tricks_topic_image {
+    padding: 1em;
+    max-width: 300px;
+    max-height: 300px;
+    object-fit: cover;
+    min-height: 15em;
+}
