@@ -16,7 +16,6 @@ body {
 
 a {
     text-decoration: none;
-    color: black;
 }
 
 .active {
@@ -58,6 +57,14 @@ li {
     margin-top: 1em;
     box-shadow: 0 0 10px rgb(57, 57, 57);
     justify-content: space-between;
+}
+
+.container_terms {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 1em;
+    box-shadow: 0 0 10px rgb(57, 57, 57);
+    justify-content: space-between;   
 }
 
 .topic_image {
