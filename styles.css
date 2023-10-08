@@ -3,10 +3,6 @@ html {
     font-family: 'Times New Roman', Times, serif;
 }
 
-body {
-    margin: 0;
-}
-
 .navigation_list {
     list-style-type: none;
     display: flex;
@@ -91,10 +87,6 @@ li {
     min-height: 30em;
     margin: 0.5em;
     box-shadow: 0 0 10px rgb(57, 57, 57);
-}
-
-.article_head {
-    padding-left: 1em;
 }
 
 .article_text {
