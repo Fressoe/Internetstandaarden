@@ -10,3 +10,4 @@ Bronvermelding
 1. https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scaleX
 2. https://www.w3schools.com/css/css3_gradients.asp
 3. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions
+4. https://giphy.com/
