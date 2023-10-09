@@ -1,0 +1,12 @@
+Naam: Tim de Vries
+Studentnummer: 500883979
+Klas: CMD-Turquoise
+Schooljaar: 2023-2024
+'
+Link Live Website
+https://fressoe.github.io/Internetstandaarden/index.html
+
+Bronvermelding
+1. https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scaleX
+2. https://www.w3schools.com/css/css3_gradients.asp
+3. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions
